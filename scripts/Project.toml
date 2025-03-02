@@ -1,0 +1,12 @@
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+LVModels = "c7f46542-cca1-4f5e-96da-3ad09e9393aa"
+NODEData = "56c15bac-5c7d-45b6-b0e6-74117a5d8120"
+Optimisers = "3bd65402-5787-11e9-1adc-39752487f4e2"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+ParameterSchedulers = "d7d3b36b-41b8-4d0d-a2bf-768c6151755e"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
+[sources]
+LVModels = {url = "https://github.com/ge27zib/LVModels.jl.git"}
+NODEData = {url = "https://github.com/maximilian-gelbrecht/NODEData.jl/"}
